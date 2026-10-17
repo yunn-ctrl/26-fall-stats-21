@@ -32,3 +32,9 @@ Desktop.ini
 
 # Instructor iClicker questions
 /iclicker/
+
+# preview and older versions
+/live_demos/previews/
+/live_demos/older/
+# Private instructor homework solution key and exports
+/homework/HW2/HW2_solution_key*
